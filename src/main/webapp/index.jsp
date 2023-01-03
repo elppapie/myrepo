@@ -7,6 +7,8 @@
 <title>index.jsp</title>
 </head>
 <body>
-	<h2>GIT</h2>
+	<h2>제목</h2>
+	<h2>제목3</h2>
+	<h4>제목4</h4>
 </body>
 </html>
